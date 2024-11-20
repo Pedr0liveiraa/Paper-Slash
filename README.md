@@ -53,9 +53,9 @@ Este repositório contém a documentação e demonstração do jogo criado na di
 .Fase 1: Análise
 - [ Lucas ] Problema selecionado e definido claramente.
 - [ Saulo ] Compreensão aprofundada da natureza e desafios do problema.
+- [ Lucio ] Objetivos do algoritmo definidos com clareza.
 
 .Fase 2: Planejamento 
-- [ Lucio ] Objetivos do algoritmo definidos com clareza.
 - [ Lucio ] Game estilo' Hack and slash
 - [ Lucio ] Escolha da IDE Game Maker Studio.
 - [ Lucas ] Desenvolvimento do game na IDE.
