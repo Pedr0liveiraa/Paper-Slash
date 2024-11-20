@@ -50,25 +50,25 @@ Este repositório contém a documentação e demonstração do jogo criado na di
 ## 📝 CheckList
 **Fase 1: Análise**
 
-Fase 1: Análise
+.Fase 1: Análise
 [ Lucas ] Problema selecionado e definido claramente.
 [ Saulo ] Compreensão aprofundada da natureza e desafios do problema.
 
-Fase 2: Planejamento 
+.Fase 2: Planejamento 
 [ Lucio ] Objetivos do algoritmo definidos com clareza.
 [ Lucio ] Game estilo' Hack and slash
 [ Lucio ] Escolha da IDE Game Maker Studio.
 [ Lucas ] Desenvolvimento do game na IDE.
 [ Lucas ] Estrutura geral do algoritmo esboçada.
 
-Fase 4: Programação e Teste
+.Fase 3: Programação e Teste
 [ Pedro ] Algoritmo traduzido com precisão.
 [ Lucas ] Código de programação escrito de forma clara e organizada.
 [ Lucas ] Testes rigorosos realizados em uma variedade de casos de teste.
 [ Lucas ] Casos limite e situações especiais testados.
 [ Saulo ] Erros e problemas durante o teste de programa identificados e corrigidos.
 
-Fase 5: Documentação e Avaliação do Projeto 
+.Fase 4: Documentação e Avaliação do Projeto 
 [ Joao ] Documentação completa, incluindo especificação do algoritmo e análise de complexidade.
 [ Joao ] Documentação revisada para clareza e rigor técnico.
 [ Saulo ] Avaliação da eficácia do algoritmo em termos de tempo de execução, uso de recursos e precisão na resolução do problema.
