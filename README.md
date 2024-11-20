@@ -8,7 +8,7 @@ Este repositório contém a documentação e demonstração do jogo criado na di
 ## 👥 Participantes
 - 👩‍🏫 Prof. Kadidja Valéria
 - 👤 Lucas Albuquerque -
-- 👤 Saulo Silva -
+- 👤 Saulo Silva - 30372607
 - 👤 Pedro Mateus - 299880804
 - 👤 João Marcos -
 - 👤 Lucio Roberto - 30153263
