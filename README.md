@@ -15,6 +15,8 @@ Este repositório contém a documentação e demonstração do jogo criado na di
 
 ## 📰 Sobre
  **Paper Slash**: é um jogo em perspectiva 2D em que o jogador controla um papel que usa uma espada para eliminar outros papéis. Existe, no jogo, um sistema de pontuação baseado na quantidade de inimigos derrotados dentro do tempo limite que é de 5 minutos. Ao finalizar uma tentativa, o jogador será colocado no sistema de ranking do jogo e conseguir uma boa posição é a forma mais clara de vitória.
+ 
+ ![Dentro do Jogo](Game-Image.jpeg)
 
 ## ⚙️ Tecnologias
  **Game Maker Studio**: é uma engine de criação de jogos 2D de fácil uso e aprendizado e suporta plataformas como Windows, Mac, Linux, Android, iOS e HTML5.
