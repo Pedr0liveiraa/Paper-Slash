@@ -37,6 +37,6 @@ Este repositório contém a documentação e demonstração do jogo criado na di
  **Vida**: ganhar ou perder depende da vida. Cada entidade do jogo possui uma quantidade diferente de vida e não foi implementada uma forma de recuperá-la, tornando-a o recurso mais importante do jogo. Os ataques diminuem a quantidade de vida das entidades (jogador e inimigos).
 
 ## 🎮 Jogabilidade
- **Movimentação**: o jogo é em perspectiva 2D com uma visão de cima. O jogador se mexe utilizando as teclas (W, A, S, D) e pode correr seguranto a tecla (SHIFT). Além disso, o jogador pode dar um dash (um movimento rápido para avançar ou escapar de um inimigo) utilizando a barra de espaço.
+ **Movimentação**: o jogo é em perspectiva 2D com uma visão de cima. O jogador se mexe utilizando as teclas (W, A, S, D) e pode correr seguranto a tecla (SHIFT). Além disso, o jogador pode dar um dash (um movimento rápido para avançar ou escapar de um inimigo) utilizando a barra de (espaço).
  
  **Ações**: o jogador mira os seus ataques usando o mouse e o botão esquerdo para efetuar o ataque. 
