@@ -1,7 +1,8 @@
 # Paper-Slash
 ![Menu do Jogo](Paper-Slash-Menu.jpeg)
 
-**Link da Demo do jogo**: https://youtu.be/BTOfhvGqPmI
+**Link da Demo do Jogo**: https://youtu.be/BTOfhvGqPmI
+**Link de Dowload do Jogo**: https://www.mediafire.com/folder/97ynwcs3gdaxe/Paper-Slash
 
 ## 🍁 Sobre o repositório
 Este repositório contém a documentação e demonstração do jogo criado na disciplina de Computabilidade e Complexidade de Algoritmos - Centro Universitário do Distrito Federal, durante o 6° semestre.
