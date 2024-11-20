@@ -48,7 +48,7 @@ Este repositório contém a documentação e demonstração do jogo criado na di
 
 
 ## 📝 CheckList
-**Fase 1: Análise**
+
 
 .Fase 1: Análise
 - [ Lucas ] Problema selecionado e definido claramente.
