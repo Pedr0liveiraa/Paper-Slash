@@ -10,7 +10,7 @@ Este repositório contém a documentação e demonstração do jogo criado na di
 - 👤 Lucas Albuquerque -
 - 👤 Saulo Silva - 30372607
 - 👤 Pedro Mateus - 299880804
-- 👤 João Marcos -
+- 👤 João Marcos - 30620406
 - 👤 Lucio Roberto - 30153263
 
 ## 📰 Sobre o Jogo
