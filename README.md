@@ -49,5 +49,10 @@ Este repositório contém a documentação e demonstração do jogo criado na di
 
 ## 📝 CheckList
 **Fase 1: Análise**
-[ Lucio ] Esolha do tema do game em forma de 'estilo' Hack and slash.
+
+[ Lucio ] Escolha do tema do game em forma de 'estilo' Hack and slash.
+[ Lucio ] Escolha da IDE Game Maker Studio.
+[ Lucas ] Desenvolvimento do game na IDE.
+
+
 
