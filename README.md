@@ -1,9 +1,11 @@
 # Paper-Slash
 ![Menu do Jogo](Paper-Slash-Menu.jpeg)
 
-**Link da Demo do Jogo**: https://youtu.be/BTOfhvGqPmI
+**Link da Demo do Jogo no Youtube**: https://youtu.be/BTOfhvGqPmI
 
-**Link de Dowload do Jogo**: https://www.mediafire.com/folder/97ynwcs3gdaxe/Paper-Slash
+**Link de Dowload do Jogo via Mediafire**: https://www.mediafire.com/folder/97ynwcs3gdaxe/Paper-Slash
+
+  **Obs**: O arquivo do jogo ficou muito grande para o github e então foi feito upload no mediafire. Baixe cada um dos arquivos e coloque em uma pasta. Inicie o jogo clicando duas vezes no executável.
 
 ## 🍁 Sobre o repositório
 Este repositório contém a documentação e demonstração do jogo criado na disciplina de Computabilidade e Complexidade de Algoritmos - Centro Universitário do Distrito Federal, durante o 6° semestre.
