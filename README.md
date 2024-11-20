@@ -45,3 +45,8 @@ Este repositório contém a documentação e demonstração do jogo criado na di
  **Movimentação**: o jogo é em perspectiva 2D com uma visão de cima. O jogador se mexe utilizando as teclas (W, A, S, D) e pode correr seguranto a tecla (SHIFT). Além disso, o jogador pode dar um dash (um movimento rápido para avançar ou escapar de um inimigo) utilizando a barra de (Espaço).
  
  **Ações**: o jogador mira os seus ataques usando o mouse e o botão esquerdo para efetuar o ataque. 
+
+
+##📝 CheckList
+Fase 1: Análise [ ]
+[ Lucas ] 
