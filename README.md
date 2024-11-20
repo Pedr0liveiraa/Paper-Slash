@@ -61,7 +61,7 @@ Este repositório contém a documentação e demonstração do jogo criado na di
 - [ Lucas ] Desenvolvimento do game na IDE.
 - [ Lucas ] Estrutura geral do algoritmo esboçada.
 
-.Fase 3: Programação e Teste
+.Fase 3: Programação e Testes
 - [ Pedro ] Algoritmo traduzido com precisão.
 - [ Lucas ] Código de programação escrito de forma clara e organizada.
 - [ Lucas ] Testes rigorosos realizados em uma variedade de casos de teste.
