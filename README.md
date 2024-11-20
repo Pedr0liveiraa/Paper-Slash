@@ -47,6 +47,6 @@ Este repositório contém a documentação e demonstração do jogo criado na di
  **Ações**: o jogador mira os seus ataques usando o mouse e o botão esquerdo para efetuar o ataque. 
 
 
-##📝 CheckList
-Fase 1: Análise [ ]
+## 📝 CheckList
+**Fase 1: Análise**
 [ Lucas ] 
