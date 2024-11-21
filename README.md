@@ -23,6 +23,15 @@ Este repositório contém a documentação e demonstração do jogo criado na di
  
  ![Dentro do Jogo](Game-Image.jpeg)
 
+## 💡 Inspiração
+Foram utilizados como inspiração alguns jogos em universo 2D e com características de Hack and Slash.
+
+ **Dead Cells**: jogo eletrônico roguelike-metroidvania desenvolvido e publicado pela Motion Twin.
+
+ **Hollow Knight**: jogo indie de gênero metroidvania desenvolvido e publicado pela Team Cherry.
+
+ **Diep.io**: jogo multijogador massivo online em que o jogador controla um tanque em movimento em torno de uma superfície plana que representa um campo de batalha preenchido com vários polígonos.
+
 ## ⚙️ Tecnologias
  **Game Maker Studio**: é uma engine de criação de jogos 2D de fácil uso e aprendizado e suporta plataformas como Windows, Mac, Linux, Android, iOS e HTML5.
  
@@ -56,7 +65,7 @@ Este repositório contém a documentação e demonstração do jogo criado na di
 - [ Lucio ] Objetivos do algoritmo definidos com clareza.
 
 .Fase 2: Planejamento 
-- [ Lucio ] Game estilo' Hack and slash
+- [ Lucio e Lucas ] Game estilo' Hack and slash
 - [ Lucio ] Escolha da IDE Game Maker Studio.
 - [ Lucas ] Desenvolvimento do game na IDE.
 - [ Lucas ] Estrutura geral do algoritmo esboçada.
@@ -65,12 +74,12 @@ Este repositório contém a documentação e demonstração do jogo criado na di
 - [ Pedro ] Algoritmo traduzido com precisão.
 - [ Lucas ] Código de programação escrito de forma clara e organizada.
 - [ Lucas ] Testes rigorosos realizados em uma variedade de casos de teste.
-- [ Lucas ] Casos limite e situações especiais testados.
+- [ Lucas e Lucio ] Casos limite e situações especiais testados.
 - [ Saulo ] Erros e problemas durante o teste de programa identificados e corrigidos.
 
 .Fase 4: Documentação e Avaliação do Projeto 
-- [ Joao ] Documentação completa, incluindo especificação do algoritmo e análise de complexidade.
-- [ Joao ] Documentação revisada para clareza e rigor técnico.
+- [ Joao e Pedro ] Documentação completa, incluindo especificação do algoritmo e análise de complexidade.
+- [ Joao e Pedro ] Documentação revisada para clareza e rigor técnico.
 - [ Saulo ] Avaliação da eficácia do algoritmo em termos de tempo de execução, uso de recursos e precisão na resolução do problema.
 - [ Pedro ] Avaliação da colaboração da equipe e cumprimento dos prazos.
 
