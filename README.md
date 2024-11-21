@@ -59,25 +59,25 @@ Foram utilizados como inspiração alguns jogos em universo 2D e com caracterís
 ## 📝 CheckList
 
 
-.Fase 1: Análise
+**Fase 1: Análise**
 - [ Lucas ] Problema selecionado e definido claramente.
 - [ Saulo ] Compreensão aprofundada da natureza e desafios do problema.
 - [ Lucio ] Objetivos do algoritmo definidos com clareza.
 
-.Fase 2: Planejamento 
+**Fase 2: Planejamento** 
 - [ Lucio e Lucas ] Game estilo' Hack and slash
 - [ Lucio ] Escolha da IDE Game Maker Studio.
 - [ Lucas ] Desenvolvimento do game na IDE.
 - [ Lucas ] Estrutura geral do algoritmo esboçada.
 
-.Fase 3: Programação e Testes
+**Fase 3: Programação e Testes**
 - [ Pedro ] Algoritmo traduzido com precisão.
 - [ Lucas ] Código de programação escrito de forma clara e organizada.
 - [ Lucas ] Testes rigorosos realizados em uma variedade de casos de teste.
 - [ Lucas e Lucio ] Casos limite e situações especiais testados.
 - [ João ] Erros e problemas durante o teste de programa identificados e corrigidos.
 
-.Fase 4: Documentação e Avaliação do Projeto 
+**Fase 4: Documentação e Avaliação do Projeto** 
 - [ João e Pedro ] Documentação completa, incluindo especificação do algoritmo e análise de complexidade.
 - [ João e Pedro ] Documentação revisada para clareza e rigor técnico.
 - [ Saulo ] Avaliação da eficácia do algoritmo em termos de tempo de execução, uso de recursos e precisão na resolução do problema.
