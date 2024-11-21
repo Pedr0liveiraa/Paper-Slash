@@ -75,11 +75,11 @@ Foram utilizados como inspiração alguns jogos em universo 2D e com caracterís
 - [ Lucas ] Código de programação escrito de forma clara e organizada.
 - [ Lucas ] Testes rigorosos realizados em uma variedade de casos de teste.
 - [ Lucas e Lucio ] Casos limite e situações especiais testados.
-- [ Saulo ] Erros e problemas durante o teste de programa identificados e corrigidos.
+- [ João ] Erros e problemas durante o teste de programa identificados e corrigidos.
 
 .Fase 4: Documentação e Avaliação do Projeto 
-- [ Joao e Pedro ] Documentação completa, incluindo especificação do algoritmo e análise de complexidade.
-- [ Joao e Pedro ] Documentação revisada para clareza e rigor técnico.
+- [ João e Pedro ] Documentação completa, incluindo especificação do algoritmo e análise de complexidade.
+- [ João e Pedro ] Documentação revisada para clareza e rigor técnico.
 - [ Saulo ] Avaliação da eficácia do algoritmo em termos de tempo de execução, uso de recursos e precisão na resolução do problema.
 - [ Pedro ] Avaliação da colaboração da equipe e cumprimento dos prazos.
 
